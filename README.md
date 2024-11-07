@@ -59,3 +59,65 @@ Before starting, ensure you have the following installed on your system:
    ```bash
    git clone https://github.com/yourusername/p18-fitness.git
    cd p18-fitness
+
+   Install dependencies For backend:
+
+bash
+Copy code
+composer install
+For frontend:
+
+bash
+Copy code
+npm install
+Set up environment variables Copy .env.example to .env and set the necessary environment variables:
+
+bash
+Copy code
+cp .env.example .env
+php artisan key:generate
+Set up the database
+
+Configure your database in the .env file (e.g., MySQL, SQLite).
+Run migrations:
+bash
+Copy code
+php artisan migrate
+Run the development server For Laravel backend:
+
+bash
+Copy code
+php artisan serve
+For frontend (with Laravel Mix):
+
+bash
+Copy code
+npm run dev
+Access the application Open your browser and navigate to:
+
+arduino
+Copy code
+http://localhost:8000
+Technology Stack
+Frontend:
+
+HTML, CSS, JavaScript
+Vue.js (for dynamic components)
+Tailwind CSS (for styling)
+Alpine.js (for interactive elements)
+Backend:
+
+Laravel 11
+MySQL (Database)
+Laravel Passport (Authentication)
+Mailgun (Email Notifications)
+Contribution Guidelines
+We welcome contributions! If you'd like to help make P18 Fitness even better, please follow these guidelines:
+
+Fork the repository.
+Create a new branch for each significant change.
+Make your changes and commit them.
+Write tests for new features or bug fixes.
+Submit a pull request with a clear description of your changes.
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
