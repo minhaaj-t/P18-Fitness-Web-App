@@ -11,6 +11,24 @@
 
 Welcome to the **P18 Fitness Web App**! This application is a comprehensive fitness platform designed to provide users with a range of workout programs, personalized training, and progress tracking. Whether you're a beginner or an experienced fitness enthusiast, P18 Fitness is here to help you stay on top of your fitness journey.
 
+<p>
+   <div  align="center">
+    <img src="https://github.com/user-attachments/assets/807e1665-fc78-4867-9bda-6411229b5a12" width="20%" />
+    <img src="https://github.com/user-attachments/assets/4b5dc428-a084-4954-82e1-764e3feda5c3" width="20%" />
+    <img src="https://github.com/user-attachments/assets/75228588-f77d-4da6-a30a-9d2cb4aa8aa7" width="20%" />
+      <img src="https://github.com/user-attachments/assets/e21716c6-a7ae-4e2a-841d-470879fb1b7b" width="20%" />
+   </div>
+      <div  align="center">
+    <img src="https://github.com/user-attachments/assets/ba2f71ca-2a8d-4b6b-92e2-90e70bff0950" width="20%" />
+    <img src="https://github.com/user-attachments/assets/cb9a15a4-517f-4782-a1a4-4091cd823425" width="20%" />
+             <img src="https://github.com/user-attachments/assets/312fcd87-9803-4971-b284-625469e1f99f" width="20%" />
+    <img src="https://github.com/user-attachments/assets/e2ca07e7-3740-4849-bc47-9a7412c9bdee" width="20%" />
+   </div>
+</p>
+
+
+
+
 ## Features
 
 ### 1. **User Authentication and Profiles**
