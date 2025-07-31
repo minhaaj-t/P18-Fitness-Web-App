@@ -6,7 +6,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-
+  
 # P18 Fitness Web App
 
 Welcome to the **P18 Fitness Web App**! This application is a comprehensive fitness platform designed to provide users with a range of workout programs, personalized training, and progress tracking. Whether you're a beginner or an experienced fitness enthusiast, P18 Fitness is here to help you stay on top of your fitness journey.
