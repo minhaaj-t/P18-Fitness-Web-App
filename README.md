@@ -11,7 +11,7 @@
 
 Welcome to the **P18 Fitness Web App**! This application is a comprehensive fitness platform designed to provide users with a range of workout programs, personalized training, and progress tracking. Whether you're a beginner or an experienced fitness enthusiast, P18 Fitness is here to help you stay on top of your fitness journey.
 
-<p>
+<p>  
    <div  align="center">
     <img src="https://github.com/user-attachments/assets/807e1665-fc78-4867-9bda-6411229b5a12" width="20%" />
     <img src="https://github.com/user-attachments/assets/4b5dc428-a084-4954-82e1-764e3feda5c3" width="20%" />
