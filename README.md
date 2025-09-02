@@ -15,7 +15,7 @@ Welcome to the **P18 Fitness Web App**! This application is a comprehensive fitn
    <div  align="center">
     <img src="https://github.com/user-attachments/assets/807e1665-fc78-4867-9bda-6411229b5a12" width="20%" />
     <img src="https://github.com/user-attachments/assets/4b5dc428-a084-4954-82e1-764e3feda5c3" width="20%" />
-    <img src="https://github.com/user-attachments/assets/75228588-f77d-4da6-a30a-9d2cb4aa8aa7" width="20%" />
+    <img src="https://github.com/user-attachments/assets/75228588-f77d-4da6-a30a-9d2cb4aa8aa7" width="20%" /> 
       <img src="https://github.com/user-attachments/assets/e21716c6-a7ae-4e2a-841d-470879fb1b7b" width="20%" />
    </div>
       <div  align="center">
